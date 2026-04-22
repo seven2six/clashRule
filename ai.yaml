@@ -1,5 +1,6 @@
 # > custom
 DOMAIN-SUFFIX,one.google.com
+DOMAIN-SUFFIX,gemini.google.com
   
 # > ChatGPT
 DOMAIN-SUFFIX,chat.com
