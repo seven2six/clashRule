@@ -1,3 +1,12 @@
+# ===== Wechat =====
+- PROCESS-NAME,WeChat,DIRECT
+- PROCESS-NAME,WeChatAppEx,DIRECT
+- DOMAIN-SUFFIX,qpic.cn,DIRECT
+- DOMAIN-SUFFIX,gtimg.com,DIRECT
+- DOMAIN-SUFFIX,weixin.qq.com,DIRECT
+- DOMAIN-SUFFIX,wechat.com,DIRECT
+- DOMAIN-SUFFIX,wx.qq.com,DIRECT
+
 # ===== OpenAI =====
 - DOMAIN-SUFFIX,openai.com
 - DOMAIN-SUFFIX,chatgpt.com
